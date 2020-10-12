@@ -15,4 +15,4 @@
 ## FASE 2
 [Ejercicio de bases de datos](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/EjercicioDeBaseDeDatos_1680776.pdf)
 
-[Ejercicios prácticos de python]()
+[Ejercicios prácticos de python](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/EjerciciosPracticos_1680776.ipynb)
