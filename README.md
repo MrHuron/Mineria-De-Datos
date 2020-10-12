@@ -13,6 +13,6 @@
 
 
 ## FASE 2
-[Ejercicio de bases de datos](https://github.com/Cristian1680776/Mineria-De-Datos/commit/fdce9ebb5661bfc32e76dba941d2023c8ded9977)
+[Ejercicio de bases de datos](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/EjercicioDeBaseDeDatos_1680776.pdf)
 
 [Ejercicios prácticos de python]()
