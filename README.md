@@ -18,3 +18,5 @@
 [Ejercicios prácticos de python](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/PythonBasico_1680776.ipynb)
 
 [Primer_Avanze_del_Proyecto_Integrador](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Avance1-PIA_Equipo_02_Grupo012.pdf)
+
+[Ejercicios Mineria](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/EJERCICIO%20GRAFICAS.pdf)
