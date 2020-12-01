@@ -26,4 +26,4 @@
 
 [Segundo_Avanza_PIA](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/SEGUNDO%20AVANCE%20(Final).ipynb)
 
-[Poster_Final](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/PIA_02_12.jpg)
+[Poster_Final](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/PIA_02_12.pdf)
