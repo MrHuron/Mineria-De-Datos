@@ -20,3 +20,10 @@
 [Primer_Avanze_del_Proyecto_Integrador](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Avance1-PIA_Equipo_02_Grupo012.pdf)
 
 [Ejercicios Mineria](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/EJERCICIO%20GRAFICAS.pdf)
+
+
+## FASE 3
+
+[Segundo_Avanza_PIA](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/SEGUNDO%20AVANCE%20(Final).ipynb)
+
+[Poster_Final](https://github.com/aletzLozano/MINERIA-DE-DATOS/blob/master/Poster_Final.jpg)
